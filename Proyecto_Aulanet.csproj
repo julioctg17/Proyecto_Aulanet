@@ -52,6 +52,12 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmcreacue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmcreacue.Designer.cs">
+      <DependentUpon>frmcreacue.cs</DependentUpon>
+    </Compile>
     <Compile Include="policpriv.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -65,6 +71,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmcreacue.resx">
+      <DependentUpon>frmcreacue.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="policpriv.resx">
       <DependentUpon>policpriv.cs</DependentUpon>
