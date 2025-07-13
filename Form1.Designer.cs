@@ -33,8 +33,8 @@
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
-            this.bntinicuen = new System.Windows.Forms.Button();
-            this.bntcrearcuen = new System.Windows.Forms.Button();
+            this.bntinicuen1 = new System.Windows.Forms.Button();
+            this.bntcrearcuen1 = new System.Windows.Forms.Button();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.label5 = new System.Windows.Forms.Label();
@@ -74,23 +74,23 @@
             resources.ApplyResources(this.label4, "label4");
             this.label4.Name = "label4";
             // 
-            // bntinicuen
+            // bntinicuen1
             // 
-            resources.ApplyResources(this.bntinicuen, "bntinicuen");
-            this.bntinicuen.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(28)))), ((int)(((byte)(36)))), ((int)(((byte)(124)))));
-            this.bntinicuen.ForeColor = System.Drawing.Color.White;
-            this.bntinicuen.Name = "bntinicuen";
-            this.bntinicuen.UseVisualStyleBackColor = false;
-            this.bntinicuen.Click += new System.EventHandler(this.button2_Click);
+            resources.ApplyResources(this.bntinicuen1, "bntinicuen1");
+            this.bntinicuen1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(28)))), ((int)(((byte)(36)))), ((int)(((byte)(124)))));
+            this.bntinicuen1.ForeColor = System.Drawing.Color.White;
+            this.bntinicuen1.Name = "bntinicuen1";
+            this.bntinicuen1.UseVisualStyleBackColor = false;
+            this.bntinicuen1.Click += new System.EventHandler(this.button2_Click);
             // 
-            // bntcrearcuen
+            // bntcrearcuen1
             // 
-            resources.ApplyResources(this.bntcrearcuen, "bntcrearcuen");
-            this.bntcrearcuen.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(28)))), ((int)(((byte)(36)))), ((int)(((byte)(124)))));
-            this.bntcrearcuen.ForeColor = System.Drawing.Color.White;
-            this.bntcrearcuen.Name = "bntcrearcuen";
-            this.bntcrearcuen.UseVisualStyleBackColor = false;
-            this.bntcrearcuen.Click += new System.EventHandler(this.bntcrearcuen_Click);
+            resources.ApplyResources(this.bntcrearcuen1, "bntcrearcuen1");
+            this.bntcrearcuen1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(28)))), ((int)(((byte)(36)))), ((int)(((byte)(124)))));
+            this.bntcrearcuen1.ForeColor = System.Drawing.Color.White;
+            this.bntcrearcuen1.Name = "bntcrearcuen1";
+            this.bntcrearcuen1.UseVisualStyleBackColor = false;
+            this.bntcrearcuen1.Click += new System.EventHandler(this.bntcrearcuen_Click);
             // 
             // pictureBox1
             // 
@@ -166,8 +166,8 @@
             this.Controls.Add(this.label5);
             this.Controls.Add(this.pictureBox2);
             this.Controls.Add(this.pictureBox1);
-            this.Controls.Add(this.bntinicuen);
-            this.Controls.Add(this.bntcrearcuen);
+            this.Controls.Add(this.bntinicuen1);
+            this.Controls.Add(this.bntcrearcuen1);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
@@ -190,8 +190,8 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.Button bntinicuen;
-        private System.Windows.Forms.Button bntcrearcuen;
+        private System.Windows.Forms.Button bntinicuen1;
+        private System.Windows.Forms.Button bntcrearcuen1;
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.PictureBox pictureBox2;
         private System.Windows.Forms.Label label5;

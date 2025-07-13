@@ -258,81 +258,81 @@
   <data name="&gt;&gt;label4.ZOrder" xml:space="preserve">
     <value>10</value>
   </data>
-  <data name="bntinicuen.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+  <data name="bntinicuen1.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Right</value>
   </data>
-  <data name="bntinicuen.AutoSize" type="System.Boolean, mscorlib">
+  <data name="bntinicuen1.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <data name="bntinicuen.Font" type="System.Drawing.Font, System.Drawing">
+  <data name="bntinicuen1.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 11.25pt</value>
   </data>
-  <data name="bntinicuen.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+  <data name="bntinicuen1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="bntinicuen.Location" type="System.Drawing.Point, System.Drawing">
+  <data name="bntinicuen1.Location" type="System.Drawing.Point, System.Drawing">
     <value>542, 243</value>
   </data>
-  <data name="bntinicuen.MaximumSize" type="System.Drawing.Size, System.Drawing">
+  <data name="bntinicuen1.MaximumSize" type="System.Drawing.Size, System.Drawing">
     <value>218, 92</value>
   </data>
-  <data name="bntinicuen.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="bntinicuen1.Size" type="System.Drawing.Size, System.Drawing">
     <value>218, 92</value>
   </data>
-  <data name="bntinicuen.TabIndex" type="System.Int32, mscorlib">
+  <data name="bntinicuen1.TabIndex" type="System.Int32, mscorlib">
     <value>5</value>
   </data>
-  <data name="bntinicuen.Text" xml:space="preserve">
+  <data name="bntinicuen1.Text" xml:space="preserve">
     <value> Iniciar Cuenta 
 Peualtia Pouali</value>
   </data>
-  <data name="&gt;&gt;bntinicuen.Name" xml:space="preserve">
-    <value>bntinicuen</value>
+  <data name="&gt;&gt;bntinicuen1.Name" xml:space="preserve">
+    <value>bntinicuen1</value>
   </data>
-  <data name="&gt;&gt;bntinicuen.Type" xml:space="preserve">
+  <data name="&gt;&gt;bntinicuen1.Type" xml:space="preserve">
     <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;bntinicuen.Parent" xml:space="preserve">
+  <data name="&gt;&gt;bntinicuen1.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
-  <data name="&gt;&gt;bntinicuen.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;bntinicuen1.ZOrder" xml:space="preserve">
     <value>8</value>
   </data>
-  <data name="bntcrearcuen.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+  <data name="bntcrearcuen1.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Left</value>
   </data>
-  <data name="bntcrearcuen.AutoSize" type="System.Boolean, mscorlib">
+  <data name="bntcrearcuen1.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <data name="bntcrearcuen.Font" type="System.Drawing.Font, System.Drawing">
+  <data name="bntcrearcuen1.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 11.25pt</value>
   </data>
-  <data name="bntcrearcuen.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+  <data name="bntcrearcuen1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="bntcrearcuen.Location" type="System.Drawing.Point, System.Drawing">
+  <data name="bntcrearcuen1.Location" type="System.Drawing.Point, System.Drawing">
     <value>58, 243</value>
   </data>
-  <data name="bntcrearcuen.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="bntcrearcuen1.Size" type="System.Drawing.Size, System.Drawing">
     <value>218, 92</value>
   </data>
-  <data name="bntcrearcuen.TabIndex" type="System.Int32, mscorlib">
+  <data name="bntcrearcuen1.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
   </data>
-  <data name="bntcrearcuen.Text" xml:space="preserve">
+  <data name="bntcrearcuen1.Text" xml:space="preserve">
     <value>         Crear Cuenta        
  Nextia se pouali</value>
   </data>
-  <data name="&gt;&gt;bntcrearcuen.Name" xml:space="preserve">
-    <value>bntcrearcuen</value>
+  <data name="&gt;&gt;bntcrearcuen1.Name" xml:space="preserve">
+    <value>bntcrearcuen1</value>
   </data>
-  <data name="&gt;&gt;bntcrearcuen.Type" xml:space="preserve">
+  <data name="&gt;&gt;bntcrearcuen1.Type" xml:space="preserve">
     <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;bntcrearcuen.Parent" xml:space="preserve">
+  <data name="&gt;&gt;bntcrearcuen1.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
-  <data name="&gt;&gt;bntcrearcuen.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;bntcrearcuen1.ZOrder" xml:space="preserve">
     <value>9</value>
   </data>
   <data name="pictureBox1.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
