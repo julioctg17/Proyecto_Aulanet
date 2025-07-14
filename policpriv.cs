@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Proyecto_Aulanet
 {
-    public partial class policpriv : Form
+    public partial class frmpolicpriv : Form
     {
-        public policpriv()
+        public frmpolicpriv()
         {
             InitializeComponent();
         }

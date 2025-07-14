@@ -35,6 +35,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Messaging" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -58,6 +59,12 @@
     <Compile Include="frmcreacue.Designer.cs">
       <DependentUpon>frmcreacue.cs</DependentUpon>
     </Compile>
+    <Compile Include="frminicuen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frminicuen.Designer.cs">
+      <DependentUpon>frminicuen.cs</DependentUpon>
+    </Compile>
     <Compile Include="policpriv.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -74,6 +81,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmcreacue.resx">
       <DependentUpon>frmcreacue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frminicuen.resx">
+      <DependentUpon>frminicuen.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="policpriv.resx">
       <DependentUpon>policpriv.cs</DependentUpon>
