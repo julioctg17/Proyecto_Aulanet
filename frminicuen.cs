@@ -21,5 +21,10 @@ namespace Proyecto_Aulanet
         {
 
         }
+
+        private void pictureBox4_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
