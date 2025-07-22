@@ -16,7 +16,7 @@ namespace Proyecto_Aulanet
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmresp());
+            Application.Run(new frmsesion());
         }
     }
 }
