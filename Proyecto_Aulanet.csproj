@@ -53,11 +53,23 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmcreacue.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="frmcreacue.Designer.cs">
       <DependentUpon>frmcreacue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmcreapregseg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmcreapregseg.Designer.cs">
+      <DependentUpon>frmcreapregseg.cs</DependentUpon>
     </Compile>
     <Compile Include="frminicuen.cs">
       <SubType>Form</SubType>
@@ -79,8 +91,14 @@
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmcreacue.resx">
       <DependentUpon>frmcreacue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmcreapregseg.resx">
+      <DependentUpon>frmcreapregseg.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frminicuen.resx">
       <DependentUpon>frminicuen.cs</DependentUpon>

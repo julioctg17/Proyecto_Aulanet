@@ -21,5 +21,10 @@ namespace Proyecto_Aulanet
         {
 
         }
+
+        private void txtcontverf_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
