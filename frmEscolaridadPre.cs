@@ -10,21 +10,19 @@ using System.Windows.Forms;
 
 namespace Proyecto_Aulanet
 {
-    public partial class frminicuen : Form
+    public partial class frmEscolaridadPre : Form
     {
-        public frminicuen()
+        public frmEscolaridadPre()
         {
             InitializeComponent();
         }
 
-        private void pictureBox1_Click(object sender, EventArgs e)
+        private void pictureBox3_Click(object sender, EventArgs e)
         {
 
         }
 
-        private void pictureBox4_Click(object sender, EventArgs e)
-        private void txtcontverf_TextChanged(object sender, EventArgs e)
-
+        private void label3_Click(object sender, EventArgs e)
         {
 
         }
