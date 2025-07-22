@@ -22,9 +22,7 @@ namespace Proyecto_Aulanet
 
         }
 
-        private void pictureBox4_Click(object sender, EventArgs e)
         private void txtcontverf_TextChanged(object sender, EventArgs e)
-
         {
 
         }
