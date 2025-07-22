@@ -110,7 +110,7 @@
             this.bntsi.ForeColor = System.Drawing.Color.White;
             this.bntsi.ImeMode = System.Windows.Forms.ImeMode.NoControl;
             this.bntsi.Location = new System.Drawing.Point(114, 257);
-            this.bntsi.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.bntsi.Margin = new System.Windows.Forms.Padding(4);
             this.bntsi.MaximumSize = new System.Drawing.Size(291, 113);
             this.bntsi.Name = "bntsi";
             this.bntsi.Size = new System.Drawing.Size(291, 113);
@@ -127,7 +127,7 @@
             this.bntno.ForeColor = System.Drawing.Color.White;
             this.bntno.ImeMode = System.Windows.Forms.ImeMode.NoControl;
             this.bntno.Location = new System.Drawing.Point(666, 256);
-            this.bntno.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.bntno.Margin = new System.Windows.Forms.Padding(4);
             this.bntno.MaximumSize = new System.Drawing.Size(291, 113);
             this.bntno.Name = "bntno";
             this.bntno.Size = new System.Drawing.Size(291, 113);
@@ -182,7 +182,7 @@
             this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
             this.pictureBox2.ImeMode = System.Windows.Forms.ImeMode.NoControl;
             this.pictureBox2.Location = new System.Drawing.Point(377, 377);
-            this.pictureBox2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pictureBox2.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(313, 279);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
