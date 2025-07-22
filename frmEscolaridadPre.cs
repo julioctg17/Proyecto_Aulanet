@@ -26,5 +26,10 @@ namespace Proyecto_Aulanet
         {
 
         }
+
+        private void bntsi_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
