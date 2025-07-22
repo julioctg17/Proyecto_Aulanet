@@ -115,8 +115,9 @@
             this.bntsi.Name = "bntsi";
             this.bntsi.Size = new System.Drawing.Size(291, 113);
             this.bntsi.TabIndex = 57;
-            this.bntsi.Text = "         si        \r\n Kemaj";
+            this.bntsi.Text = "         Si        \r\n Kemaj";
             this.bntsi.UseVisualStyleBackColor = false;
+            this.bntsi.Click += new System.EventHandler(this.bntsi_Click);
             // 
             // bntno
             // 
