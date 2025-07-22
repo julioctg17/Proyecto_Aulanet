@@ -186,9 +186,10 @@
             this.label7.Location = new System.Drawing.Point(106, 241);
             this.label7.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(165, 22);
+            this.label7.Size = new System.Drawing.Size(148, 22);
             this.label7.TabIndex = 60;
-            this.label7.Text = "¿De dónde eres?:";
+            this.label7.Text = "¿De dónde es?:";
+            this.label7.Click += new System.EventHandler(this.label7_Click);
             // 
             // label8
             // 
@@ -202,6 +203,7 @@
             this.label8.Size = new System.Drawing.Size(301, 22);
             this.label8.TabIndex = 61;
             this.label8.Text = "¿Cuál es el nombre de su mamá?:";
+            this.label8.Click += new System.EventHandler(this.label8_Click);
             // 
             // label9
             // 
