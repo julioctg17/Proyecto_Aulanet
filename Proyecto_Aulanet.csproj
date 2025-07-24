@@ -153,7 +153,7 @@
 
       <DependentUpon>frminicuen.cs</DependentUpon>
 
-    </Compile><Compile Include="frmPredeSe.cs"><SubType>Form</SubType></Compile><Compile Include="frmPredeSe.Designer.cs"><DependentUpon>frmPredeSe.cs</DependentUpon></Compile>
+    </Compile><Compile Include="frmPredeSe.cs"><SubType>Form</SubType></Compile><Compile Include="frmPredeSe.Designer.cs"><DependentUpon>frmPredeSe.cs</DependentUpon></Compile><Compile Include="frmRealizarPrue.cs"><SubType>Form</SubType></Compile><Compile Include="frmRealizarPrue.Designer.cs"><DependentUpon>frmRealizarPrue.cs</DependentUpon></Compile>
 
     <Compile Include="policpriv.cs">
 
@@ -205,7 +205,7 @@
 
       <DependentUpon>frminicuen.cs</DependentUpon>
 
-    </EmbeddedResource><EmbeddedResource Include="frmPredeSe.resx"><DependentUpon>frmPredeSe.cs</DependentUpon></EmbeddedResource>
+    </EmbeddedResource><EmbeddedResource Include="frmPredeSe.resx"><DependentUpon>frmPredeSe.cs</DependentUpon></EmbeddedResource><EmbeddedResource Include="frmRealizarPrue.resx"><DependentUpon>frmRealizarPrue.cs</DependentUpon></EmbeddedResource>
 
     <EmbeddedResource Include="policpriv.resx">
 
