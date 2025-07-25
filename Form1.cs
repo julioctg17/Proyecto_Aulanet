@@ -31,7 +31,8 @@ namespace Proyecto_Aulanet
 
         private void bntcrearcuen_Click(object sender, EventArgs e)
         {
-
+            frmcreacue f = new frmcreacue();
+            f.ShowDialog();
         }
 
         private void label2_Click(object sender, EventArgs e)
@@ -41,7 +42,8 @@ namespace Proyecto_Aulanet
 
         private void button2_Click(object sender, EventArgs e)
         {
-
+            frminicuen f = new frminicuen();
+            f.ShowDialog();
         }
 
         private void pictureBox1_Click(object sender, EventArgs e)

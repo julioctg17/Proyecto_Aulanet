@@ -165,9 +165,9 @@
             this.label1.Location = new System.Drawing.Point(101, 243);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(171, 22);
+            this.label1.Size = new System.Drawing.Size(105, 22);
             this.label1.TabIndex = 22;
-            this.label1.Text = "Nombre Completo:";
+            this.label1.Text = "Nombre(s):";
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // label4
@@ -263,10 +263,10 @@
             // txtnomc
             // 
             this.txtnomc.Anchor = System.Windows.Forms.AnchorStyles.Left;
-            this.txtnomc.Location = new System.Drawing.Point(280, 245);
+            this.txtnomc.Location = new System.Drawing.Point(214, 245);
             this.txtnomc.Margin = new System.Windows.Forms.Padding(4);
             this.txtnomc.Name = "txtnomc";
-            this.txtnomc.Size = new System.Drawing.Size(246, 22);
+            this.txtnomc.Size = new System.Drawing.Size(312, 22);
             this.txtnomc.TabIndex = 30;
             // 
             // txtapepat
