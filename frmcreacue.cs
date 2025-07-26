@@ -40,6 +40,7 @@ namespace Proyecto_Aulanet
                 cmd.Parameters.AddWithValue("@am", ApellidoMaterno);
                 cmd.Parameters.AddWithValue("@c", Contrasena);
                 cmd.Parameters.AddWithValue("@crp", Curp);
+                cmd.ExecuteNonQuery();
             }
             if (txtcontrasena.Text == txtconfcont.Text)
             {
@@ -61,12 +62,12 @@ namespace Proyecto_Aulanet
             using (var conn = new ConexionDB().ObtenerConexion())
             {
                 conn.Open();
-                var cmd = new SqlCommand("SELECT IdUsuario, NombreUsuario, ApellidoPaterno, ApellidoMaterno FROM Usuario", conn);
+                var cmd = new SqlCommand("SELECT IdEstudiante, Nombre, Correo FROM Estudiantes", conn);
                 var reader = cmd.ExecuteReader();
 
                 while (reader.Read())
                 {
-                    reader "IdUsuario", reader "Nombre", reader "Correo"];
+                    //dgvEstudiantes.Rows.Add(reader["IdEstudiante"], reader["Nombre"], reader["Correo"]);
                 }
             }
         }
